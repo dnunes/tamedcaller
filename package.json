@@ -34,8 +34,7 @@
     "mocha": "^3.4.2",
     "rewire": "^2.5.2",
     "sinon": "^2.3.2",
-    "requestpeeper": "git+https://github.com/dnunes/requestpeeper.git",
-    "simpleutils": "git+https://github.com/dnunes/simpleutils.git"
+    "requestpeeper": "git+https://github.com/dnunes/requestpeeper.git"
   },
   "dependencies": {
     "request": "^2.73.0"
