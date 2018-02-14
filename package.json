@@ -33,10 +33,9 @@
     "istanbul": "^0.4.5",
     "mocha": "^3.4.2",
     "rewire": "^2.5.2",
-    "sinon": "^2.3.2",
-    "requestpeeper": "git+https://github.com/dnunes/requestpeeper.git"
+    "sinon": "^2.3.2"
   },
   "dependencies": {
-    "request": "^2.73.0"
+    "requestpeeper": "git+https://github.com/dnunes/requestpeeper.git"
   }
 }
