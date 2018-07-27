@@ -1,8 +1,8 @@
 {
   "name": "tamedcaller",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Turn your wildest requests into well-behaved little calls.",
-  "author": "Diego Nunes <work@dnunes.com> (http://dnunes.com)",
+  "author": "diego nunes <work@dnunes.com> (http://dnunes.com)",
   "homepage": "http://dnunes.com/tamedcaller/",
   "main": "lib/CallerDom.js",
   "scripts": {
